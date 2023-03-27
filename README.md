@@ -4,12 +4,10 @@ README dosyasi, bir adet de index.html barindiryor.
 ## Installation
 Öncelikle projeyi clonelayin. (https://github.com/sinanth/kodluyoruzilkrepo.git)
 
+![Gorsel](https://github.com/Kodluyoruz/taskforce/raw/main/git/odev1/figures/github.png)
+
 ## Usage
 Projeyi cloneladiktan sonra Visual Studio Code programinda açiniz.
-
-Linux için:
-
-Projeyi cloneladıktan sonra Visual Studio Code programında açınız.
 
 Linux için:
 
@@ -22,4 +20,4 @@ Pull requestler kabul edilir. Büyük değişiklikler için, lütfen önce neyi 
 
 ## License
 
-[MIT] (https://choosealicense.com/licenses/mit/)
+[MIT](https://choosealicense.com/licenses/mit/)
